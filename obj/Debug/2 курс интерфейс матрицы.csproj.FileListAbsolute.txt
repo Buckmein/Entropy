@@ -1,0 +1,18 @@
+D:\Курсач\2 курс интерфейс матрицы\bin\Debug\2 курс интерфейс матрицы.exe
+D:\Курсач\2 курс интерфейс матрицы\bin\Debug\2 курс интерфейс матрицы.pdb
+D:\Курсач\2 курс интерфейс матрицы\obj\Debug\2 курс интерфейс матрицы.csprojAssemblyReference.cache
+D:\Курсач\2 курс интерфейс матрицы\obj\Debug\_2_курс_интерфейс_матрицы.Form1.resources
+D:\Курсач\2 курс интерфейс матрицы\obj\Debug\_2_курс_интерфейс_матрицы.Properties.Resources.resources
+D:\Курсач\2 курс интерфейс матрицы\obj\Debug\2 курс интерфейс матрицы.csproj.GenerateResource.cache
+D:\Курсач\2 курс интерфейс матрицы\obj\Debug\2 курс интерфейс матрицы.csproj.CoreCompileInputs.cache
+D:\Курсач\2 курс интерфейс матрицы\obj\Debug\2 курс интерфейс матрицы.exe
+D:\Курсач\2 курс интерфейс матрицы\obj\Debug\2 курс интерфейс матрицы.pdb
+C:\Users\Buck\Desktop\2 курс интерфейс матрицы\bin\Debug\2 курс интерфейс матрицы.exe
+C:\Users\Buck\Desktop\2 курс интерфейс матрицы\bin\Debug\2 курс интерфейс матрицы.pdb
+C:\Users\Buck\Desktop\2 курс интерфейс матрицы\obj\Debug\2 курс интерфейс матрицы.csprojAssemblyReference.cache
+C:\Users\Buck\Desktop\2 курс интерфейс матрицы\obj\Debug\_2_курс_интерфейс_матрицы.Form1.resources
+C:\Users\Buck\Desktop\2 курс интерфейс матрицы\obj\Debug\_2_курс_интерфейс_матрицы.Properties.Resources.resources
+C:\Users\Buck\Desktop\2 курс интерфейс матрицы\obj\Debug\2 курс интерфейс матрицы.csproj.GenerateResource.cache
+C:\Users\Buck\Desktop\2 курс интерфейс матрицы\obj\Debug\2 курс интерфейс матрицы.csproj.CoreCompileInputs.cache
+C:\Users\Buck\Desktop\2 курс интерфейс матрицы\obj\Debug\2 курс интерфейс матрицы.exe
+C:\Users\Buck\Desktop\2 курс интерфейс матрицы\obj\Debug\2 курс интерфейс матрицы.pdb
